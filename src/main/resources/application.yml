@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: SpringBootAdminServerApplication
+  boot:
+    admin:
+      routes:
+        endpoints: "*"
+server:
+  port: 9091
